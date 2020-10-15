@@ -12,3 +12,8 @@ nouveau test
 
 No, this is the best man !
 
+<<<<<<< HEAD
+=======
+nouveau test
+
+>>>>>>> changes on branch test
